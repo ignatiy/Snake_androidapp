@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="StartButton">Начать Игру</string>
+    <string name="app_name">Snake</string>
+    <string name="hello">Hello World, SimpleSnakeActivity!</string>
+    <string name="lose">Вы проиграли!</string>
+    <string name="score">Ваши очки </string>
+
+</resources>
